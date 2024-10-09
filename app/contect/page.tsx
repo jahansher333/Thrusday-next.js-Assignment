@@ -1,4 +1,3 @@
-import exp from "constants";
 import Link from "next/link";
 import cssStyle from '/app/content.module.css'
 const Contact = () => {
